@@ -1,14 +1,14 @@
 <h1>INDEX</h1>
   <ul>
     <li>README.md</li>
-    <li>html_notlari_1</li>
-    <li>html_notlari_2</li>
-    <li>html_notlari_3</li>
-    <li>html_notlari_4</li>
+    <li>html_notlari_1.html</li>
+    <li>html_notlari_2.html</li>
+    <li>html_notlari_3.html</li>
+    <li>html_notlari_4.html</li>
     <li>night_mode.html</li>
   </ul>
 <br>
-<h2>html_notlari_1</h2>
+<h2>html_notlari_1.html</h2>
 <ul>
   <li>html dosyası iskeleti</li>
   <li>dil ayarı</li>
