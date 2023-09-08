@@ -1,3 +1,21 @@
+<table border="1">
+            <tr>
+                <th>INDEX</th>
+            </tr>
+            <tr>
+                <td>README.md</td>
+            </tr>
+            <tr>
+                <td>html_notlari_1.html</td>
+            </tr>
+            <tr>
+                <td>html_notlari_2.html</td>
+            </tr>
+        </table>
+
+
+
+
 <h1>INDEX</h1>
   <ul>
     <li>README.md</li>
