@@ -11,20 +11,19 @@
             <tr>
                 <td>html_notlari_2.html</td>
             </tr>
+            <tr>
+                <td>html_notlari_3.html</td>
+            </tr>
+            <tr>
+                <td>html_notlari_4.html</td>
+            </tr>
+            <tr>
+                <td>html_notlari_5.html</td>
+            </tr>
+            <tr>
+                <td>night_mode.html</td>
+            </tr>
         </table>
-
-
-
-
-<h1>INDEX</h1>
-  <ul>
-    <li>README.md</li>
-    <li>html_notlari_1.html</li>
-    <li>html_notlari_2.html</li>
-    <li>html_notlari_3.html</li>
-    <li>html_notlari_4.html</li>
-    <li>night_mode.html</li>
-  </ul>
 <br>
 <h2>html_notlari_1.html</h2>
 <ul>
