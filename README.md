@@ -33,6 +33,22 @@
   <li>site başlığı ayarı</li>
 </ul>
 <br>
+<h2>html_notlari_5.html</h2>
+<ul>
+  <li>tablo oluşturma</li>
+            <ul type="disc">
+                        <li>table etiketi</li>
+                        <li>border komutu</li>
+            </ul>
+  <li>liste türleri</li>
+            <ul type="disc">
+                        <li>ul etiketi ve type'ları</li>
+                        <li>ol etiketi ve type'ları</li>
+                        <li>start komutu</li>
+                        <li>li etiketi</li>
+            </ul>
+</ul>
+<br>
 <h2>night_mode.html</h2>
 <ul>
   <li>web sitelerinde gece modu için bir kod bloğu</li>
